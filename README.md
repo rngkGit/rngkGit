@@ -30,7 +30,8 @@
 
 ## About Me
 
-I am a Computer Engineering Student based in Texas. I specialize in programming utilities for efficient project workflows, with a focus on building home server programs.
+I am a Computer Engineering Student based in Texas. I specialize in programming utilities for efficient project workflows, with a focus on building home server programs.  
+I also create some fun side projects here and there.
 <!--
 ---
 
