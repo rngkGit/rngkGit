@@ -3,12 +3,27 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rngkGit&theme=github_dark" alt="GitHub Profile Details" height="150" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rngkGit&theme=github_dark" alt="Top Languages" height="150" />
+  <!-- Profile Details Card -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rngkGit&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rngkGit&theme=github" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rngkGit&theme=github" alt="GitHub Profile Details" height="150" />
+  </picture>
+  <!-- Most Commit Language Card -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rngkGit&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rngkGit&theme=github" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rngkGit&theme=github" alt="Top Languages" height="150" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rngkGit&hide_border=true&background=00000000&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" />
+  <!-- Streak Stats Card -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=rngkGit&hide_border=true&background=00000000&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=8b949e&dates=8b949e" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=rngkGit&hide_border=true&background=00000000&ring=0969da&fire=0969da&currStreakLabel=0969da&currStreakNum=24292f&sideNums=24292f&sideLabels=57606a&dates=57606a" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rngkGit&hide_border=true&background=00000000&ring=0969da&fire=0969da&currStreakLabel=0969da&currStreakNum=24292f&sideNums=24292f&sideLabels=57606a&dates=57606a" alt="GitHub Streak" />
+  </picture>
 </p>
 
 ---
@@ -47,9 +62,9 @@ I am a Computer Engineering Student based in Texas. I specialize in programming 
 
 | Repository | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
-| [`[PROJECT_NAME_1]`](https://github.com/[YOUR_USERNAME]/[REPO_NAME_1]) | [Brief summary of the architecture and utility] | `Go`, `PostgreSQL`, `Docker` | Active |
-| [`[PROJECT_NAME_2]`](https://github.com/[YOUR_USERNAME]/[REPO_NAME_2]) | [Brief summary of the architecture and utility] | `TypeScript`, `Next.js` | Maintained |
-| [`[PROJECT_NAME_3]`](https://github.com/[YOUR_USERNAME]/[REPO_NAME_3]) | [Brief summary of the architecture and utility] | `Python`, `FastAPI` | Complete |
+| [`[PROJECT_NAME_1]`](https://github.com/rngkGit/[REPO_NAME_1]) | [Brief summary of the architecture and utility] | `Go`, `PostgreSQL`, `Docker` | Active |
+| [`[PROJECT_NAME_2]`](https://github.com/rngkGit/[REPO_NAME_2]) | [Brief summary of the architecture and utility] | `TypeScript`, `Next.js` | Maintained |
+| [`[PROJECT_NAME_3]`](https://github.com/rngkGit/[REPO_NAME_3]) | [Brief summary of the architecture and utility] | `Python`, `FastAPI` | Complete |
 
 ---
 
